@@ -1,0 +1,53 @@
+运行python脚本时传入参数的几种方式（接收外部参数）
+https://blog.csdn.net/weixin_44847326/article/details/112366677
+
+Python类型转换，Python数据类型转换函数大全
+http://c.biancheng.net/view/4243.html
+
+python 定时器(threading.Timer)
+https://zhuanlan.zhihu.com/p/32094690
+
+python 时间格式化（time，datetime）
+https://blog.csdn.net/u014401742/article/details/90592739
+
+Python 日期时间(datetime)
+https://www.cainiaojc.com/python/python-datetime.html
+
+Python实现控制台清屏
+★调用Windows CMD的cls命令会造成闪屏。改用控制字符\033c
+https://blog.csdn.net/u010037542/article/details/95735453
+
+python中datetime时区问题
+https://blog.csdn.net/coologic/article/details/102968167
+
+python利用format进行格式化打印
+https://blog.csdn.net/Victor2code/article/details/107430961
+
+Python 控制台输出时刷新当前行内容
+★这个是番外，没起什么效果★为了解决输出多行时光标在最后两行狂闪。
+看了这里理解到如果只是需要在同一行内反复覆盖输出的话只需要\r就行了。回车的本意。
+https://blog.csdn.net/qq_26095375/article/details/118026743
+
+python datetime offset-aware与offset-navie相互转换
+https://blog.csdn.net/qq_25420115/article/details/53149669
+
+(timedelta没有strftime方法）
+
+Python格式化输出百分比
+https://blog.csdn.net/aideshizhe0/article/details/83719148
+
+python 捕获 ctrl c中断信号
+★好像有点问题
+https://blog.csdn.net/clksjx/article/details/103498937
+
+python捕获Ctrl+C信号
+https://blog.csdn.net/weixin_30508309/article/details/97992486
+
+【Python】终端（控制台）带颜色输出
+https://blog.csdn.net/qq_45656077/article/details/113676729
+
+Linux终端和win32控制台文本颜色输出
+https://www.cnblogs.com/crabxx/p/4046498.html
+
+Python基础-注释风格规范
+https://zhuanlan.zhihu.com/p/386426984

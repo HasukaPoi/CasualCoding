@@ -1,0 +1,8 @@
+开眼界！Python 遍历文件可以这样做！
+https://zhuanlan.zhihu.com/p/358952456
+
+Python获取图片的大小/尺寸
+https://blog.csdn.net/qq_36025814/article/details/80769317
+
+Python实现文件的复制粘贴
+https://blog.csdn.net/liulanba/article/details/114980792
